@@ -8,5 +8,6 @@ int main()
 	scanf("%d",& num);
 	printf("\r\n");
 	printf("you entered %d \r\n",num);
+	printf("###########################\r\n");
 	return 0;
 }
